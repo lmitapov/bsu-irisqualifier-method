@@ -7,3 +7,4 @@ install:
 	mkdir --parents /usr/local/bin
 	cp --force target/irisqualifier-method /usr/local/bin
 	chmod 755 /usr/local/bin/irisqualifier-method
+	

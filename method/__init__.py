@@ -1,1 +1,0 @@
-from distutils.core import setup./hello/__init__.py ./hello/setup.py ./hello/hello.py
